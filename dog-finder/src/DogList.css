@@ -1,0 +1,21 @@
+.DogList ul{
+    list-style: none;
+    text-align: center;
+}
+
+.DogList a{
+    text-decoration: none;
+    margin: 10px;
+}
+
+.DogList img{
+    margin-top: 20px;
+    width: 500px;
+    height: auto;
+}
+
+.DogList-name {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: black;
+}

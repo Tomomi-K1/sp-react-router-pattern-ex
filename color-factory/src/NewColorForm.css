@@ -1,0 +1,14 @@
+div.NewColorForm {
+    /* border: 1px solid grey; */
+    /* width: 70%; */
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+.NewColorForm button {
+    margin-top: 20px;
+}

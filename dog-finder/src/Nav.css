@@ -1,0 +1,10 @@
+.Nav{
+    background-color: lightgray;
+    color: black;
+}
+
+.Nav a{
+    margin: 1rem;
+    text-decoration: none;
+    display: inline-block;
+} 

@@ -1,0 +1,32 @@
+div.DogDetails{
+    width: 50%;
+    display: inline-block;
+}
+.DogDetails ul{
+    list-style: none;
+    text-align: left;
+}
+
+.DogDetails a{
+    text-decoration: none;
+    margin: 10px;
+}
+
+.DogDetails-img{
+    margin-top: 20px;
+    width: 500px;
+    height: auto;
+    text-align: center;
+}
+
+.DogDetails-name {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: black;
+}
+
+div.DogDetails-list {
+    display: inline-block;
+    width: 90%;
+    padding-left: 10%;
+}

@@ -1,0 +1,26 @@
+.Colors ul{
+    list-style: none;
+}
+
+.Colors li{
+    font-size: 1.3rem;
+    padding: 0.5rem;
+    font-weight: bold;
+}
+
+.Colors div{
+    padding: 1rem;
+    background-color: grey;
+    color: white;
+
+}
+
+.Colors div a {
+    color: white;
+    text-decoration: none;
+}
+
+.Colors div a:hover {
+    color: lightcoral;
+    text-decoration: none;
+}
